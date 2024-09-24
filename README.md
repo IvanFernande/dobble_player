@@ -2,6 +2,8 @@
 
 This project develops an automatic player for the game Dobble using computer vision and deep learning techniques, implementing the YOLO-NAS architecture for real-time detection of common symbols between two cards.
 
+![image](https://github.com/user-attachments/assets/dea15656-dbf9-4662-9ce6-9cdc99b5176f)
+
 ## Description
 
 The aim of the project is to create an artificial intelligence system capable of quickly and accurately identifying the repeated symbols on two cards in the game Dobble. Data augmentation and neural network training techniques have been used to improve the model's capability and accuracy.
