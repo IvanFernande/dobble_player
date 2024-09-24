@@ -16,7 +16,7 @@ The aim of the project is to create an artificial intelligence system capable of
 
 ## Files
 
-- Project_Dobble.pdf: Complete project document, including methodology, model development, results and conclusions.
+- dobble.pdf:Full project document, including methodology, model development, results and conclusions in Spanish, for enquiries in English please email ivanfdezg@hotmail.com. 
 
 ## Requirements
 
