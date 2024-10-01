@@ -33,7 +33,3 @@ The aim of the project is to create an artificial intelligence system capable of
 ## Contribution
 
 This project is open to improvements and contributions. If you have ideas or find bugs, feel free to open an issue or send a pull request.
-
-## License
-
-This project is licensed under the MIT license. See the LICENSE file for more details.
